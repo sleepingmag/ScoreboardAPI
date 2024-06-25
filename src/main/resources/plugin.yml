@@ -1,6 +1,6 @@
 name: "ScoreboardAPI"
 main: "me.iwareq.scoreboard.ScoreboardAPI"
 version: "${pom.version}"
-api: "2.0"
+api: "2.0.0"
 load: "STARTUP"
 author: "IWareQ"
